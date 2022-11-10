@@ -1,1 +1,2 @@
-This is my first journey in Git.
+This is my first journey in Git. I hope i don't stop here. I wish to continue
+It's cool.....
